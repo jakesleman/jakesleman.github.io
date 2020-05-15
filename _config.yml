@@ -1,11 +1,11 @@
 # Site settings
 author: Jake Sleman
-title: 
+title: Jake's Blog
 header-img: img/home-bg.png
 email: jakesleman@icloud.com
 copyright_name: Jake Sleman
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Software Development 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  jakesleman
